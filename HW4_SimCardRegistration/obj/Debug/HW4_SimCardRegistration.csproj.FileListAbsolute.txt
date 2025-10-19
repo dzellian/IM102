@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\bin\Debug\HW4_SimCardRegistration.exe.config
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\bin\Debug\HW4_SimCardRegistration.exe
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\bin\Debug\HW4_SimCardRegistration.pdb
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.Form1.resources
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.Form2.resources
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.exe
+C:\Users\LENOVO\source\repos\HW4_SimCardRegistration\HW4_SimCardRegistration\obj\Debug\HW4_SimCardRegistration.pdb
